@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OfferLetterModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tbl_Customer">
+    <Key>
+      <PropertyRef Name="Customer_Id" />
+    </Key>
+    <Property Name="Customer_Id" Type="Int32" Nullable="false" />
+    <Property Name="Customer__Name" Type="String" MaxLength="75" FixedLength="false" Unicode="true" />
+    <Property Name="SPOC" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email_Id" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Contact_Number" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Location" Type="String" MaxLength="70" FixedLength="false" Unicode="true" />
+    <Property Name="Address" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Creation_Date" Type="DateTime" Precision="0" />
+    <Property Name="Flag" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="OfferLetterEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tbl_Customer" EntityType="Self.tbl_Customer" />
+  </EntityContainer>
+</Schema>

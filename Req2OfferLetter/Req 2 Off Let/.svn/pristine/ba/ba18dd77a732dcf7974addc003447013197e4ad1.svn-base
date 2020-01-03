@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1c1a54e69c8445b589dd42d512976c2a" Name="Diagram1">
+        <EntityTypeShape EntityType="Req2offerDBModel.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Req2offerDBModel.tbl_Business_Unit" Width="1.5" PointX="3.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Req2offerDBModel.tbl_Cost_Center" Width="1.5" PointX="3.75" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Req2offerDBModel.tbl_Customer" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Req2offerDBModel.tbl_Employee_Type" Width="1.5" PointX="0.75" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Req2offerDBModel.tbl_External_Req" Width="1.5" PointX="3" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Req2offerDBModel.tbl_Internal_Req" Width="1.5" PointX="6" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Req2offerDBModel.tbl_Role" Width="1.5" PointX="1.5" PointY="15.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Req2offerDBModel.tbl_Select_Candidate" Width="1.5" PointX="8.25" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Req2offerDBModel.tbl_Status" Width="1.5" PointX="11.25" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="Req2offerDBModel.tbl_Sub_Business_Unit" Width="1.5" PointX="3.75" PointY="15.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Req2offerDBModel.tbl_User" Width="1.5" PointX="0.75" PointY="10.25" IsExpanded="true" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_Inter__Bu_Id__18EBB532" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_Sub_B__Bu_Id__19DFD96B" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_Cost___Head___6477ECF3" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_Inter__Cost___1B0907CE" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_Exter__Custo__10566F31" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_Exter__Emplo__21B6055D" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_Inter__Emplo__1A14E395" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_Selec__Emplo__5AEE82B9" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_Exter__Emplo__6383C8BA" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_Selec__Exter__5BE2A6F2" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_Statu__Exter__5535A963" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_Inter__Emplo__628FA481" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_Inter__Repor__7A672E12" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_Selec__Inter__5CD6CB2B" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_Statu__Inter__5629CD9C" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK_Sub_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_User__Role_I__07C12930" ManuallyRouted="false" />
+        <AssociationConnector Association="Req2offerDBModel.FK__tbl_User__Report__02FC7413" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

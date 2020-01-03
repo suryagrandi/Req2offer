@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    @*@if (Session["Id"] == null)
+                        {
+                            <li >
+                            <a href="#" style="color:lightblue"><span class="glyphicon glyphicon-user"></span>@ViewBag.message</a>
+                            </li>
+                        }*@
+                    @if (Session["Employee_Name"] != null)
+                    {
+                        if (ViewBag.message != null)
+                        {
+
+                            <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                            <li>@Html.ActionLink("About", "About", "Home")</li>
+                            <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+
+                            <li>
+                                <a href="#" style="color:lightblue"><span class="glyphicon glyphicon-user"></span>@ViewBag.message</a>
+                            </li>
+                        }
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+      
+   
+    @*<table border="1" style="width:1600px; font-family:Arial">
+        <tr>
+            <td colspan="2" style="text-align:center">
+                <h3>Welcome</h3>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:200px">
+                <h3>@Html.ActionLink("User", "UserList")</h3>
+                <h3>@Html.ActionLink("Create Customer", "#")</h3>
+                <h3>@Html.ActionLink("Selected Candidate", "#")</h3>
+                <h3>@Html.ActionLink("Logout", "Logout")</h3>
+            </td>
+            <td style="width:600px">
+                @RenderBody()
+                <h4 style="text-align:right">@Html.ActionLink("AddUser", "usercreate")</h4>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align:center; font-size:x-small">
+                <h3>Website Footer</h3>
+            </td>
+        </tr>
+    </table>*@
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

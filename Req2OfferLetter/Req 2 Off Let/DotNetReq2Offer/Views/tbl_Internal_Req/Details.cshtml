@@ -1,0 +1,123 @@
+﻿@model DotNetReq2Offer.Models.tbl_Internal_Req
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>tbl_Internal_Req</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Skill)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Skill)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Budget)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Budget)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Request_Raised_Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Request_Raised_Date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date_Of_Joining)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date_Of_Joining)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Flag)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Flag)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Notice_period)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Notice_period)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Years_Of_Experience)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Years_Of_Experience)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tbl_Business_Unit.Bu_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tbl_Business_Unit.Bu_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tbl_Cost_Center.Cost_Center_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tbl_Cost_Center.Cost_Center_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tbl_Employee_Type.Employee_Type)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tbl_Employee_Type.Employee_Type)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tbl_User.Employee_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tbl_User.Employee_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tbl_User1.Employee_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tbl_User1.Employee_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tbl_Sub_Business_Unit.Sub_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tbl_Sub_Business_Unit.Sub_Name)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Internal_Rqq_Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

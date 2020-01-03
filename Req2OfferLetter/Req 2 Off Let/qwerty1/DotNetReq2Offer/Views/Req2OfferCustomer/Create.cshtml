@@ -1,0 +1,104 @@
+﻿@model DotNetReq2Offer.Models.tbl_Customer
+
+@{
+	ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm())
+{
+	<table>
+		<tr>
+			<td>
+				<label>Customer_Id</label>
+				@Html.EditorFor(model => model.Customer_Id)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<label>Customer__Name</label>
+				@Html.EditorFor(model => model.Customer__Name)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<label>SPOC</label>
+				@Html.EditorFor(model => model.SPOC)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<label>Email_Id</label>
+				@Html.EditorFor(model => model.Email_Id)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<label>Contact_Number</label>
+				@Html.EditorFor(model => model.Contact_Number)
+			</td>
+		</tr>
+		<tr>
+		<tr>
+			<td>
+				<label>Location</label>
+				@Html.EditorFor(model => model.Location)
+			</td>
+		</tr>
+		<tr>
+		<tr>
+			<td>
+				<label>Address</label>
+				@Html.EditorFor(model => model.Address)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<label>Creation_Date</label>
+				@Html.EditorFor(model => model.Creation_Date)
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<label>Flag</label>
+				@Html.EditorFor(model => model.Flag)
+			</td>
+		</tr>
+		<tr>
+		<tr>
+			@*<tr>
+					<td>
+						<label>Role_Id</label>
+						@Html.DropDownList("Role_Id", TempData["t1"] as List<SelectListItem>)
+					</td>
+				</tr>*@
+			@*<tr>
+					<td>
+						<label>Created_Date</label>
+						@Html.EditorFor(model => model.Created_Date)
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<label>Flag</label>
+						@Html.EditorFor(model => model.Flag)
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<label>Reporting_Manager</label>
+						@Html.EditorFor(model => model.Reporting_Manager)
+					</td>
+				</tr>*@
+	</table>
+	<br />
+	<input type="submit" value="Save" class="btn btn-primary" onclick="Save()" />
+	<script>
+		function Save() {
+			alert("User Created Successfully")
+		}
+	</script>
+}
+<br />
+@Html.ActionLink("Back To List", "UserIndex")

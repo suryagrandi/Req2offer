@@ -1,0 +1,47 @@
+﻿@model List<DotNetReq2Offer.Models.tbl_User>
+@{
+    ViewBag.Title = "UserIndex";
+}
+
+<h2>UserIndex</h2>
+@Html.ActionLink("Create New", "UserCreate")
+<table class="table-bordered">
+    <thead>
+        <tr>
+            <th>Employee_Id</th>
+            <th>Employee_Name</th>
+            <th>Email_Id</th>
+            <th>Contact_Number</th>
+            <th>Password</th>
+            <th>Password_Date</th>
+            <th>Role_Id</th>
+            <th>Created_Date</th>
+            <th>Flag</th>
+            <th>Reporting_Manager</th>
+            <th>Edit/Delete</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Employee_Id</td>
+                <td>@item.Employee_Name</td>
+                <td>@item.Email_Id</td>
+                <td>@item.Contact_Number</td>
+                <td>@item.Password</td>
+                <td>@item.Password_Date</td>
+                <td>@item.Role_Id</td>
+                <td>@item.Created_Date</td>
+                <td>@item.Flag</td>
+                <td>@item.Reporting_Manager</td>
+                <td>
+                    @Html.ActionLink("Edit", "UserEdit", new { id = item.Employee_Id })||@Html.ActionLink("Delete", "UserDelete", new { id = item.Employee_Id })
+                </td>
+            </tr>
+        }
+
+    </thead>
+</table>
+<div>
+    @Html.ActionLink("Back To RoleCreate", "RoleIndex", "Role")
+</div>

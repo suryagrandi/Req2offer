@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Req2offerModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tbl_Role">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Role_Name" Type="String" MaxLength="45" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tbl_User" Relationship="Self.FK__tbl_User__Role_I__09DE7BCC" FromRole="tbl_Role" ToRole="tbl_User" />
+  </EntityType>
+  <EntityType Name="tbl_User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Employee_Id" Type="Int32" />
+    <Property Name="Employee_Name" Type="String" MaxLength="45" FixedLength="false" Unicode="true" />
+    <Property Name="Email_Id" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Contact_Number" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Password_Date" Type="DateTime" Precision="0" />
+    <Property Name="Role_Id" Type="Int32" />
+    <Property Name="Created_Date" Type="DateTime" Precision="0" />
+    <Property Name="Flag" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Reporting_Manager" Type="String" MaxLength="70" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tbl_Role" Relationship="Self.FK__tbl_User__Role_I__09DE7BCC" FromRole="tbl_User" ToRole="tbl_Role" />
+  </EntityType>
+  <Association Name="FK__tbl_User__Role_I__09DE7BCC">
+    <End Role="tbl_Role" Type="Self.tbl_Role" Multiplicity="0..1" />
+    <End Role="tbl_User" Type="Self.tbl_User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Role">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="tbl_User">
+        <PropertyRef Name="Role_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Req2offerEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tbl_Role" EntityType="Self.tbl_Role" />
+    <EntitySet Name="tbl_User" EntityType="Self.tbl_User" />
+    <AssociationSet Name="FK__tbl_User__Role_I__09DE7BCC" Association="Self.FK__tbl_User__Role_I__09DE7BCC">
+      <End Role="tbl_Role" EntitySet="tbl_Role" />
+      <End Role="tbl_User" EntitySet="tbl_User" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

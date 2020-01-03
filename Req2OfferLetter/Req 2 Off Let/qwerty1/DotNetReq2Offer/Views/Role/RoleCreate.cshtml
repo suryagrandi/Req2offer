@@ -1,0 +1,18 @@
+﻿@model DotNetReq2Offer.Models.tbl_Role
+@{
+    ViewBag.Title = "RoleCreate";
+}
+
+<h2>Role Create</h2>
+
+@using (Html.BeginForm())
+{
+    <label>Role_Name</label>
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.EditorFor(Model => Model.Role_Name)
+    @Html.ValidationMessageFor(model => model.Role_Name, "", new { @class = "text-danger" })
+    <br />
+    <input type="submit" value="Save" class="btn btn-primary" />
+}
+<br />
+@Html.ActionLink("Back To List", "RoleIndex")

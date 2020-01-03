@@ -1,0 +1,1204 @@
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll.config
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.pdb
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\csc.exe
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\csc.exe.config
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\csc.rsp
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\csi.exe
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\csi.exe.config
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\csi.rsp
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.AppContext.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Console.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\vbc.exe
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\vbc.exe.config
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\vbc.rsp
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\Antlr3.Runtime.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\Newtonsoft.Json.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Helpers.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Http.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Mvc.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Optimization.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Razor.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.WebPages.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\WebGrease.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\Newtonsoft.Json.xml
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.xml
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Helpers.xml
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Http.xml
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.xml
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Mvc.xml
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Optimization.xml
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Razor.xml
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.WebPages.xml
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\Antlr3.Runtime.pdb
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csprojAssemblyReference.cache
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CoreCompileInputs.cache
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CopyComplete
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.dll
+C:\Users\glokesh\Desktop\New folder\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.pdb
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll.config
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.pdb
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\csc.exe
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\csc.exe.config
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\csc.rsp
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\csi.exe
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\csi.exe.config
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\csi.rsp
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.AppContext.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Console.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\vbc.exe
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\vbc.exe.config
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\vbc.rsp
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\Antlr3.Runtime.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\Newtonsoft.Json.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.Helpers.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.Http.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.Mvc.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.Optimization.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.Razor.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.WebPages.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\WebGrease.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\Newtonsoft.Json.xml
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.xml
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.Helpers.xml
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.Http.xml
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.xml
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.Mvc.xml
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.Optimization.xml
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.Razor.xml
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.WebPages.xml
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\Antlr3.Runtime.pdb
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csprojAssemblyReference.cache
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CoreCompileInputs.cache
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CopyComplete
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.dll
+C:\Users\drajkumar\Desktop\test\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.pdb
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll.config
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.pdb
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\csc.exe
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\csc.exe.config
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\csc.rsp
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\csi.exe
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\csi.exe.config
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\csi.rsp
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.AppContext.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Console.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\vbc.exe
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\vbc.exe.config
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\vbc.rsp
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\Antlr3.Runtime.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\Newtonsoft.Json.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.Helpers.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.Http.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.Mvc.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.Optimization.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.Razor.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.WebPages.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\WebGrease.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\Newtonsoft.Json.xml
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.xml
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.Helpers.xml
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.Http.xml
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.xml
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.Mvc.xml
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.Optimization.xml
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.Razor.xml
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.WebPages.xml
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\Antlr3.Runtime.pdb
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csprojAssemblyReference.cache
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CoreCompileInputs.cache
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CopyComplete
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.dll
+C:\Users\drajkumar\Desktop\Raju\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.pdb
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll.config
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.pdb
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\csc.exe
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\csc.exe.config
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\csc.rsp
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\csi.exe
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\csi.exe.config
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\csi.rsp
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.AppContext.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Console.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\vbc.exe
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\vbc.exe.config
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\vbc.rsp
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\Antlr3.Runtime.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\Newtonsoft.Json.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.Helpers.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.Http.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.Mvc.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.Optimization.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.Razor.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.WebPages.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\WebGrease.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\Newtonsoft.Json.xml
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.xml
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.Helpers.xml
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.Http.xml
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.xml
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.Mvc.xml
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.Optimization.xml
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.Razor.xml
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.WebPages.xml
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\Antlr3.Runtime.pdb
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csprojAssemblyReference.cache
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CoreCompileInputs.cache
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CopyComplete
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.dll
+C:\Users\drajkumar\Desktop\Raju(Customer)\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.pdb
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll.config
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.pdb
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\csc.exe
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\csc.exe.config
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\csc.rsp
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\csi.exe
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\csi.exe.config
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\csi.rsp
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.AppContext.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Console.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\vbc.exe
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\vbc.exe.config
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\vbc.rsp
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\Antlr3.Runtime.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\Newtonsoft.Json.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.Helpers.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.Http.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.Mvc.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.Optimization.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.Razor.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.WebPages.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\WebGrease.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\Newtonsoft.Json.xml
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.xml
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.Helpers.xml
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.Http.xml
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.xml
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.Mvc.xml
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.Optimization.xml
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.Razor.xml
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.WebPages.xml
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\Antlr3.Runtime.pdb
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csprojAssemblyReference.cache
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CoreCompileInputs.cache
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CopyComplete
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.dll
+C:\Users\ndivya\Desktop\DotNetReq2Offer\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.pdb
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll.config
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.pdb
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\csc.exe
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\csc.exe.config
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\csc.rsp
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\csi.exe
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\csi.exe.config
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\csi.rsp
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.AppContext.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Console.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\vbc.exe
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\vbc.exe.config
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\vbc.rsp
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\Antlr3.Runtime.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\Newtonsoft.Json.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Helpers.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Http.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Mvc.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Optimization.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Razor.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.WebPages.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\WebGrease.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\Newtonsoft.Json.xml
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.xml
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Helpers.xml
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Http.xml
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.xml
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Mvc.xml
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Optimization.xml
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.Razor.xml
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.WebPages.xml
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\Antlr3.Runtime.pdb
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csprojAssemblyReference.cache
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CoreCompileInputs.cache
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CopyComplete
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.dll
+C:\Users\gsurya\Desktop\New folder\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.pdb
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll.config
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.pdb
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\csc.exe
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\csc.exe.config
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\csc.rsp
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\csi.exe
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\csi.exe.config
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\csi.rsp
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.AppContext.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Console.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\vbc.exe
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\vbc.exe.config
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\vbc.rsp
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\Antlr3.Runtime.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\Newtonsoft.Json.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.Helpers.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.Http.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.Mvc.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.Optimization.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.Razor.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.WebPages.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\WebGrease.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\Newtonsoft.Json.xml
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.xml
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.Helpers.xml
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.Http.xml
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.xml
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.Mvc.xml
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.Optimization.xml
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.Razor.xml
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.WebPages.xml
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\Antlr3.Runtime.pdb
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csprojAssemblyReference.cache
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CoreCompileInputs.cache
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CopyComplete
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.dll
+C:\Users\mvijaya\Desktop\OfferLetter\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.pdb
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll.config
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.pdb
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\csc.exe
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\csc.exe.config
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\csc.rsp
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\csi.exe
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\csi.exe.config
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\csi.rsp
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.AppContext.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Console.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\vbc.exe
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\vbc.exe.config
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\vbc.rsp
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\Antlr3.Runtime.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\Newtonsoft.Json.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.Helpers.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.Http.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.Mvc.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.Optimization.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.Razor.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.WebPages.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\WebGrease.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\Newtonsoft.Json.xml
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.xml
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.Helpers.xml
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.Http.xml
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.xml
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.Mvc.xml
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.Optimization.xml
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.Razor.xml
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.WebPages.xml
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\Antlr3.Runtime.pdb
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csprojAssemblyReference.cache
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CoreCompileInputs.cache
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CopyComplete
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.dll
+C:\Users\ugopala\Desktop\007\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.pdb
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll.config
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.pdb
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\csc.exe
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\csc.exe.config
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\csc.rsp
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\csi.exe
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\csi.exe.config
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\csi.rsp
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.AppContext.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Console.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\vbc.exe
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\vbc.exe.config
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\vbc.rsp
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\Antlr3.Runtime.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\Newtonsoft.Json.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.Helpers.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.Http.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.Mvc.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.Optimization.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.Razor.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.WebPages.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\WebGrease.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\Newtonsoft.Json.xml
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.xml
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.Helpers.xml
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.Http.xml
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.xml
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.Mvc.xml
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.Optimization.xml
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.Razor.xml
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.WebPages.xml
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\Antlr3.Runtime.pdb
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csprojAssemblyReference.cache
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CoreCompileInputs.cache
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CopyComplete
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.dll
+C:\Users\mvijaya\Desktop\REQ2@OFFER\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.pdb
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll.config
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.pdb
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\csc.exe
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\csc.exe.config
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\csc.rsp
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\csi.exe
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\csi.exe.config
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\csi.rsp
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.AppContext.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Console.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\vbc.exe
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\vbc.exe.config
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\vbc.rsp
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\Antlr3.Runtime.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\Newtonsoft.Json.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.Helpers.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.Http.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.Mvc.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.Optimization.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.Razor.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.WebPages.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\WebGrease.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\Newtonsoft.Json.xml
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.xml
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.Helpers.xml
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.Http.xml
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.xml
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.Mvc.xml
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.Optimization.xml
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.Razor.xml
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.WebPages.xml
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\Antlr3.Runtime.pdb
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csprojAssemblyReference.cache
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CoreCompileInputs.cache
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CopyComplete
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.dll
+C:\Users\mvijaya\Desktop\REQ\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.pdb
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll.config
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.pdb
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\csc.exe
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\csc.exe.config
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\csc.rsp
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\csi.exe
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\csi.exe.config
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\csi.rsp
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.AppContext.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Console.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\vbc.exe
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\vbc.exe.config
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\vbc.rsp
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\Antlr3.Runtime.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\Newtonsoft.Json.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.Helpers.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.Http.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.Mvc.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.Optimization.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.Razor.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.WebPages.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\WebGrease.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\Newtonsoft.Json.xml
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.xml
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.Helpers.xml
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.Http.xml
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.xml
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.Mvc.xml
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.Optimization.xml
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.Razor.xml
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.WebPages.xml
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\Antlr3.Runtime.pdb
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csprojAssemblyReference.cache
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CoreCompileInputs.cache
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CopyComplete
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.dll
+C:\Users\drajkumar\Desktop\9959\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.pdb
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll.config
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.pdb
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\csc.exe
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\csc.exe.config
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\csc.rsp
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\csi.exe
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\csi.exe.config
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\csi.rsp
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.AppContext.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Console.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\vbc.exe
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\vbc.exe.config
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\vbc.rsp
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\Antlr3.Runtime.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\Newtonsoft.Json.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.Helpers.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.Http.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.Mvc.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.Optimization.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.Razor.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.WebPages.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\WebGrease.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\Newtonsoft.Json.xml
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.xml
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.Helpers.xml
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.Http.xml
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.xml
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.Mvc.xml
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.Optimization.xml
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.Razor.xml
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.WebPages.xml
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\Antlr3.Runtime.pdb
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csprojAssemblyReference.cache
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CoreCompileInputs.cache
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CopyComplete
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.dll
+C:\Users\gsurya\Desktop\qwerty\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.pdb
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll.config
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.pdb
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\csc.exe
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\csc.exe.config
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\csc.rsp
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\csi.exe
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\csi.exe.config
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\csi.rsp
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.AppContext.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Console.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\vbc.exe
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\vbc.exe.config
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\vbc.rsp
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\Antlr3.Runtime.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\Newtonsoft.Json.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.Helpers.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.Http.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.Mvc.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.Optimization.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.Razor.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.WebPages.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\WebGrease.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\Newtonsoft.Json.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.Helpers.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.Http.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.Mvc.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.Optimization.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.Razor.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.WebPages.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\Antlr3.Runtime.pdb
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csprojAssemblyReference.cache
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CoreCompileInputs.cache
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CopyComplete
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\qwerty1\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.pdb
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll.config
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\DotNetReq2OfferServices.pdb
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\csc.exe
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\csc.exe.config
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\csc.rsp
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\csi.exe
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\csi.exe.config
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\csi.rsp
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.AppContext.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Console.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\vbc.exe
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\vbc.exe.config
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\vbc.rsp
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\Antlr3.Runtime.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\Newtonsoft.Json.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.Helpers.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.Http.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.Mvc.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.Optimization.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.Razor.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.WebPages.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\WebGrease.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\Newtonsoft.Json.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Net.Http.Formatting.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.Helpers.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.Http.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.Http.WebHost.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.Mvc.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.Optimization.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.Razor.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.WebPages.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\Antlr3.Runtime.pdb
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csprojAssemblyReference.cache
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CoreCompileInputs.cache
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.csproj.CopyComplete
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.dll
+C:\Users\gsurya\Desktop\req2offer pro\Req 2 Off Let\DotNetReq2OfferServices\obj\Debug\DotNetReq2OfferServices.pdb

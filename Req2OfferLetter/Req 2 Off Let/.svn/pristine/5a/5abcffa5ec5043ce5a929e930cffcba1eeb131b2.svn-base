@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OfferLetterModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tbl_Customer">
+    <Key>
+      <PropertyRef Name="Customer_Id" />
+    </Key>
+    <Property Name="Customer_Id" Type="int" Nullable="false" />
+    <Property Name="Customer__Name" Type="nvarchar" MaxLength="75" />
+    <Property Name="SPOC" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email_Id" Type="nvarchar" MaxLength="30" />
+    <Property Name="Contact_Number" Type="nvarchar" MaxLength="30" />
+    <Property Name="Location" Type="nvarchar" MaxLength="70" />
+    <Property Name="Address" Type="nvarchar" MaxLength="150" />
+    <Property Name="Creation_Date" Type="date" />
+    <Property Name="Flag" Type="nvarchar" MaxLength="10" />
+  </EntityType>
+  <EntityContainer Name="OfferLetterModelStoreContainer">
+    <EntitySet Name="tbl_Customer" EntityType="Self.tbl_Customer" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

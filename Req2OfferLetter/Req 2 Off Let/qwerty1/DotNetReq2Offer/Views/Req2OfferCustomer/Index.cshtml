@@ -1,0 +1,75 @@
+﻿@model IEnumerable<DotNetReq2Offer.Models.tbl_Customer>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Customer__Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SPOC)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email_Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Contact_Number)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Location)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Creation_Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Flag)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Customer__Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SPOC)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email_Id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Contact_Number)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Location)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Creation_Date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Flag)
+        </td>
+		<td>
+			@Html.ActionLink("Edit", "Edit", new { id = item.Customer_Id }) |
+			@Html.ActionLink("Details", "Details", new { id = item.Customer_Id }) |
+			@Html.ActionLink("Delete", "Delete", new { id = item.Customer_Id }, new { onclick = "return confirm('Are you sure you wish to delete this article?');" })
+		</td>
+    </tr>
+}
+
+</table>

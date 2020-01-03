@@ -1,0 +1,61 @@
+﻿@model DotNetReq2Offer.Models.tbl_User
+@{
+    ViewBag.Title = "UserEdit";
+}
+
+<h2>EditUser</h2>
+@using (Html.BeginForm())
+{
+    <table class="table-bordered col-lg-3">
+        @Html.HiddenFor(model => model.Employee_Id)
+        <tr>
+            <td>
+                <label>Employee_Name</label>
+                @Html.EditorFor(model => model.Employee_Name)
+            </td>
+            <td>
+                <label>Email_Id</label>
+                @Html.EditorFor(model => model.Email_Id)
+            </td>
+            <td>
+                <label>Contact_Number</label>
+                @Html.EditorFor(model => model.Contact_Number)
+            </td>
+            <td>
+                <label>Password</label>
+                @Html.EditorFor(model => model.Password)
+            </td>
+            <td>
+                <label>Password_Date</label>
+                @Html.EditorFor(model => model.Password_Date)
+            </td>
+            <td>
+                <label>Role_Id</label>
+                @Html.EditorFor(model => model.Role_Id)
+            </td>
+            <td>
+                <label>Created_Date</label>
+                @Html.EditorFor(model => model.Created_Date)
+            </td>
+            <td>
+                <label>Flag</label>
+                @Html.EditorFor(model => model.Flag)
+            </td>
+            <td>
+                <label>Reporting_Manager</label>
+                @Html.EditorFor(model => model.Reporting_Manager)
+            </td>
+        </tr>
+    </table>
+    <br />
+    <input type="submit" value="Update" class="btn btn-primary" onclick="Update()" />
+    <input type="reset" value="Cancel" class="btn btn-primary" />
+    <script>
+        function Update(){
+            alert("Updated Successfully");
+        }
+    </script>
+}
+
+@Html.ActionLink("Back To List", "UserIndex")
+

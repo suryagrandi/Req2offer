@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        <table border="1" style="width:1600px; font-family:Arial">
+            <tr>
+                <td colspan="2" style="text-align:center">
+                    <h3>Welcome</h3>
+                </td>
+            </tr>
+            <tr>
+                <td style="width:200px">
+                    <h3>@Html.ActionLink("User", "UserList")</h3>
+                    <h3>@Html.ActionLink("Create Customer", "#")</h3>
+                    <h3>@Html.ActionLink("Selected Candidate", "#")</h3>
+                    <h3>@Html.ActionLink("Logout", "Logout")</h3>
+                </td>
+                <td style="width:600px">
+                    @RenderBody()
+                    <h4 style="text-align:right">@Html.ActionLink("AddUser", "usercreate")</h4>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align:center; font-size:x-small">
+                    <h3>Website Footer</h3>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

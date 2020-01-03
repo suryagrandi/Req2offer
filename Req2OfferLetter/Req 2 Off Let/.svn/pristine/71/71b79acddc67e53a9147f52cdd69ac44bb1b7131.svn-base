@@ -1,0 +1,24 @@
+﻿@model DotNetReq2Offer.Models.tbl_Role
+@{
+    ViewBag.Title = "RoleEdit";
+}
+
+<h2>Role Edit</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(Model => Model.Id)
+    <br />
+    <label>Role_Name</label>
+    @Html.EditorFor(Model => Model.Role_Name)
+    <br />
+    <input type="submit" value="Update" class="btn btn-primary" onclick="Update()" />
+    <input type="reset" value="Cancel" class="btn btn-primary" />
+    <script>
+        function Update(){
+            alert("Updated Successfully");
+        }
+    </script>
+}
+@Html.ActionLink("Back To List", "RoleIndex")
+

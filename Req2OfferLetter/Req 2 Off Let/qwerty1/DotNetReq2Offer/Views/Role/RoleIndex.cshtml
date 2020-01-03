@@ -1,0 +1,34 @@
+﻿@model List<DotNetReq2Offer.Models.tbl_Role>
+@{
+    ViewBag.Title = "RoleIndex";
+}
+
+<h1>Role Index</h1>
+@Html.ActionLink("Create New", "RoleCreate")
+<br />
+<table class="table-bordered">
+    <thead>
+        <tr>
+            <th>
+                Role_Name
+            </th>
+            <th>
+                Edit/Delete
+            </th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Role_Name</td>
+                <td>
+                    @Html.ActionLink("Edit", "RoleEdit", new { id = item.Id })||@Html.ActionLink("Delete", "RoleDelete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </thead>
+</table>
+<br />
+<div>
+    @Html.ActionLink("Back To UserCreate", "UserIndex", "User")
+
+</div>

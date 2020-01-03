@@ -1,0 +1,26 @@
+﻿@model DotNetReq2Offer.Models.tbl_Role
+@{
+    ViewBag.Title = "RoleDelete";
+}
+
+<h2>Delete</h2>
+<h3>Are you sure you want to Delete this?</h3>
+<div>
+    <h2>Role Details</h2>
+    <hr />
+    <dl>
+        <dt>
+            @Html.DisplayNameFor(model => model.Role_Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Role_Name)
+        </dd>
+    </dl>
+    <div>
+        @using (@Html.BeginForm())
+        {
+            <input type="submit" value="Delete" class="btn btn-danger" />
+            @Html.ActionLink("Back To List", "RoleIndex")
+        }
+    </div>
+</div>

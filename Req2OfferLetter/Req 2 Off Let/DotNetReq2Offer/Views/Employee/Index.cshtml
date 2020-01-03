@@ -1,0 +1,34 @@
+﻿@model DotNetReq2Offer.Models.tbl_Employee_Type
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Index", "Employee", FormMethod.Post))
+{
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.Label("Enter EmployeeType")
+    @Html.TextBoxFor(model => model.Employee_Type)
+    @Html.ValidationMessageFor(model => model.Employee_Type, "", new { @class = "text-danger" })
+    <br />
+    <br />
+    <input type="submit" value="Save" />
+    <table>
+        <tr>
+            <th>TypeId</th>
+            <th>TypeName</th>
+        </tr>
+        @foreach (var item in TempData["i"] as IEnumerable<DotNetReq2Offer.Models.tbl_Employee_Type>)
+        {
+            <tr>
+                <td>@item.Type_Id</td>
+                <td>@item.Employee_Type</td>
+                <td>@Html.ActionLink("Delete", "Delete", new { id = item.Type_Id })</td>
+                <td>@Html.ActionLink("Edit", "Edit", new { id = item.Type_Id })</td>
+                <td>@Html.ActionLink("Search", "Search", new { id = item.Type_Id })</td>
+            </tr>
+        }
+    </table>
+}

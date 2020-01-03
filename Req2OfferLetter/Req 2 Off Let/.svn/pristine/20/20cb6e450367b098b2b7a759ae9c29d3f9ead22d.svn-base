@@ -1,0 +1,3 @@
+@using DotNetReq2OfferServices.Areas.HelpPage.ModelDescriptions
+@model SimpleTypeModelDescription
+@Model.Documentation

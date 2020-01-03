@@ -1,0 +1,27 @@
+﻿@model DotNetReq2Offer.Models.tbl_User
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UserDashBoard</title>
+</head>
+<body>
+    <div>
+
+        <fieldset>
+
+
+            @if (Session["Email_ID"] != null)
+            {
+                <h1>Welcome @Session["Email_ID"].ToString()</h1>
+            }
+        </fieldset>
+    </div>
+</body>
+</html>

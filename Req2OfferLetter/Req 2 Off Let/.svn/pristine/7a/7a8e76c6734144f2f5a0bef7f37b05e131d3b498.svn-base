@@ -1,0 +1,109 @@
+﻿@model IEnumerable<DotNetReq2Offer.Models.tbl_Internal_Req>
+
+@using DotNetReq2Offer.Models;
+@{
+    ViewBag.Title = "Index";
+    //Layout = "~/Views/Shared/_UserListLayout.cshtml";
+}
+
+<h2>Index</h2>
+
+
+@*<p>
+    @Html.ActionLink("Create New", "Create")
+</p>*@
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Bu_Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sub_Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Skill)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Reporting_Manager)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Budget)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Request_Raised_Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date_Of_Joining)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Flag)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Notice_period)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Years_Of_Experience)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tbl_Cost_Center.Cost_Center_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tbl_Employee_Type.Employee_Type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tbl_User.Employee_Name)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bu_Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sub_Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Skill)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Reporting_Manager)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Budget)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Request_Raised_Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date_Of_Joining)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Flag)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Notice_period)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Years_Of_Experience)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tbl_Cost_Center.Cost_Center_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tbl_Employee_Type.Employee_Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tbl_User.Employee_Name)
+            </td>
+            <td>
+              
+                @Html.ActionLink("Details", "Details", new { id = item.Internal_Rqq_Id }) |
+             
+            </td>
+        </tr>
+    }
+
+</table>

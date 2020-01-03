@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Req2offerDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="tbl_Cost_Center">
+    <Key>
+      <PropertyRef Name="Cost_Center_Id" />
+    </Key>
+    <Property Name="Cost_Center_Id" Type="Int32" Nullable="false" />
+    <Property Name="Cost_Center_Name" Type="String" MaxLength="45" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tbl_Internal_Req" Relationship="Self.FK__tbl_Inter__Cost___1B0907CE" FromRole="tbl_Cost_Center" ToRole="tbl_Internal_Req" />
+  </EntityType>
+  <EntityType Name="tbl_Customer">
+    <Key>
+      <PropertyRef Name="Customer_Id" />
+    </Key>
+    <Property Name="Customer_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Customer__Name" Type="String" MaxLength="75" FixedLength="false" Unicode="true" />
+    <Property Name="SPOC" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email_Id" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Contact_Number" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Location" Type="String" MaxLength="70" FixedLength="false" Unicode="true" />
+    <Property Name="Address" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Creation_Date" Type="DateTime" Precision="0" />
+    <Property Name="Flag" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tbl_External_Req" Relationship="Self.FK__tbl_Exter__Custo__3B75D760" FromRole="tbl_Customer" ToRole="tbl_External_Req" />
+  </EntityType>
+  <EntityType Name="tbl_Employee_Type">
+    <Key>
+      <PropertyRef Name="Type_Id" />
+    </Key>
+    <Property Name="Type_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Employee_Type" Type="String" MaxLength="45" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tbl_External_Req" Relationship="Self.FK__tbl_Exter__Emplo__21B6055D" FromRole="tbl_Employee_Type" ToRole="tbl_External_Req" />
+    <NavigationProperty Name="tbl_Internal_Req" Relationship="Self.FK__tbl_Inter__Emplo__1A14E395" FromRole="tbl_Employee_Type" ToRole="tbl_Internal_Req" />
+    <NavigationProperty Name="tbl_Select_Candidate" Relationship="Self.FK__tbl_Selec__Emplo__5AEE82B9" FromRole="tbl_Employee_Type" ToRole="tbl_Select_Candidate" />
+  </EntityType>
+  <EntityType Name="tbl_External_Req">
+    <Key>
+      <PropertyRef Name="External_Rqq_Id" />
+    </Key>
+    <Property Name="External_Rqq_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Customer_Id" Type="Int32" />
+    <Property Name="User_Id" Type="Int32" />
+    <Property Name="Employee_Type" Type="Int32" />
+    <Property Name="Account_Manager" Type="String" MaxLength="70" FixedLength="false" Unicode="true" />
+    <Property Name="Job_Location" Type="String" MaxLength="80" FixedLength="false" Unicode="true" />
+    <Property Name="Resource_Location" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Current_CTC" Type="Int32" />
+    <Property Name="Expected_CTC" Type="Int32" />
+    <Property Name="Request_Raised_date" Type="DateTime" Precision="3" />
+    <Property Name="Date_Of_Joining" Type="DateTime" Precision="3" />
+    <Property Name="approved_Budget" Type="Int32" />
+    <Property Name="Margin" Type="Int32" />
+    <Property Name="Notice_Period" Type="DateTime" Precision="0" />
+    <Property Name="Status" Type="String" MaxLength="45" FixedLength="false" Unicode="true" />
+    <Property Name="flag" Type="Int32" />
+    <Property Name="Role_Id" Type="Int32" />
+    <Property Name="Skills" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Years_Of_Experience" Type="Double" />
+    <NavigationProperty Name="tbl_Customer" Relationship="Self.FK__tbl_Exter__Custo__3B75D760" FromRole="tbl_External_Req" ToRole="tbl_Customer" />
+    <NavigationProperty Name="tbl_Employee_Type" Relationship="Self.FK__tbl_Exter__Emplo__21B6055D" FromRole="tbl_External_Req" ToRole="tbl_Employee_Type" />
+    <NavigationProperty Name="tbl_User" Relationship="Self.FK__tbl_Exter__User___20C1E124" FromRole="tbl_External_Req" ToRole="tbl_User" />
+    <NavigationProperty Name="tbl_Select_Candidate" Relationship="Self.FK__tbl_Selec__Exter__5BE2A6F2" FromRole="tbl_External_Req" ToRole="tbl_Select_Candidate" />
+    <NavigationProperty Name="tbl_Status" Relationship="Self.FK__tbl_Statu__Exter__5535A963" FromRole="tbl_External_Req" ToRole="tbl_Status" />
+  </EntityType>
+  <EntityType Name="tbl_Internal_Req">
+    <Key>
+      <PropertyRef Name="Internal_Rqq_Id" />
+    </Key>
+    <Property Name="Internal_Rqq_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Business_Unit" Type="Int32" />
+    <Property Name="Sub_Business_Unit" Type="Int32" />
+    <Property Name="User_Id" Type="Int32" />
+    <Property Name="Employee_Type" Type="Int32" />
+    <Property Name="Skill" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Reporting_Manager" Type="String" MaxLength="70" FixedLength="false" Unicode="true" />
+    <Property Name="Cost_Center_Id" Type="Int32" />
+    <Property Name="Budget" Type="Int32" />
+    <Property Name="Request_Raised_Date" Type="DateTime" Precision="3" />
+    <Property Name="Date_Of_Joining" Type="DateTime" Precision="0" />
+    <Property Name="status" Type="String" MaxLength="45" FixedLength="false" Unicode="true" />
+    <Property Name="Flag" Type="Int32" />
+    <Property Name="Notice_period" Type="DateTime" Precision="0" />
+    <Property Name="Years_Of_Experience" Type="Double" />
+    <NavigationProperty Name="tbl_Cost_Center" Relationship="Self.FK__tbl_Inter__Cost___1B0907CE" FromRole="tbl_Internal_Req" ToRole="tbl_Cost_Center" />
+    <NavigationProperty Name="tbl_Employee_Type" Relationship="Self.FK__tbl_Inter__Emplo__1A14E395" FromRole="tbl_Internal_Req" ToRole="tbl_Employee_Type" />
+    <NavigationProperty Name="tbl_User" Relationship="Self.FK__tbl_Inter__User___1920BF5C" FromRole="tbl_Internal_Req" ToRole="tbl_User" />
+    <NavigationProperty Name="tbl_Select_Candidate" Relationship="Self.FK__tbl_Selec__Inter__5CD6CB2B" FromRole="tbl_Internal_Req" ToRole="tbl_Select_Candidate" />
+    <NavigationProperty Name="tbl_Status" Relationship="Self.FK__tbl_Statu__Inter__5629CD9C" FromRole="tbl_Internal_Req" ToRole="tbl_Status" />
+  </EntityType>
+  <EntityType Name="tbl_Role">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Role_Name" Type="String" MaxLength="45" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tbl_User" Relationship="Self.FK__tbl_User__Role_I__0519C6AF" FromRole="tbl_Role" ToRole="tbl_User" />
+  </EntityType>
+  <EntityType Name="tbl_Select_Candidate">
+    <Key>
+      <PropertyRef Name="Reference_number" />
+    </Key>
+    <Property Name="Reference_number" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Creation_Date" Type="DateTime" Precision="3" />
+    <Property Name="Employee_Name" Type="String" MaxLength="70" FixedLength="false" Unicode="true" />
+    <Property Name="Employee_Type" Type="Int32" />
+    <Property Name="Email_Id" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Contact_Number" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Job_Location" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="External_Rqq_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Internal_Rqq_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Designation" Type="String" MaxLength="45" FixedLength="false" Unicode="true" />
+    <Property Name="Offer_Validity_Date" Type="DateTime" Precision="0" />
+    <Property Name="CTC" Type="Int32" />
+    <Property Name="Joining_Date" Type="DateTime" Precision="0" />
+    <Property Name="Flag" Type="Int32" />
+    <NavigationProperty Name="tbl_Employee_Type" Relationship="Self.FK__tbl_Selec__Emplo__5AEE82B9" FromRole="tbl_Select_Candidate" ToRole="tbl_Employee_Type" />
+    <NavigationProperty Name="tbl_External_Req" Relationship="Self.FK__tbl_Selec__Exter__5BE2A6F2" FromRole="tbl_Select_Candidate" ToRole="tbl_External_Req" />
+    <NavigationProperty Name="tbl_Internal_Req" Relationship="Self.FK__tbl_Selec__Inter__5CD6CB2B" FromRole="tbl_Select_Candidate" ToRole="tbl_Internal_Req" />
+  </EntityType>
+  <EntityType Name="tbl_Status">
+    <Key>
+      <PropertyRef Name="Status_Id" />
+    </Key>
+    <Property Name="Status_Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="External_Rqq_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Internal_Rqq_Id" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Message" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="String" MaxLength="45" FixedLength="false" Unicode="true" />
+    <Property Name="Status_Date" Type="DateTime" Precision="3" />
+    <Property Name="Flag" Type="Int32" />
+    <NavigationProperty Name="tbl_External_Req" Relationship="Self.FK__tbl_Statu__Exter__5535A963" FromRole="tbl_Status" ToRole="tbl_External_Req" />
+    <NavigationProperty Name="tbl_Internal_Req" Relationship="Self.FK__tbl_Statu__Inter__5629CD9C" FromRole="tbl_Status" ToRole="tbl_Internal_Req" />
+  </EntityType>
+  <EntityType Name="tbl_User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Employee_Id" Type="Int32" />
+    <Property Name="Employee_Name" Type="String" MaxLength="45" FixedLength="false" Unicode="true" />
+    <Property Name="Email_Id" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Contact_Number" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Password_Date" Type="DateTime" Precision="0" />
+    <Property Name="Role_Id" Type="Int32" />
+    <Property Name="Created_Date" Type="DateTime" Precision="0" />
+    <Property Name="Flag" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Reporting_Manager" Type="String" MaxLength="70" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="tbl_External_Req" Relationship="Self.FK__tbl_Exter__User___20C1E124" FromRole="tbl_User" ToRole="tbl_External_Req" />
+    <NavigationProperty Name="tbl_Internal_Req" Relationship="Self.FK__tbl_Inter__User___1920BF5C" FromRole="tbl_User" ToRole="tbl_Internal_Req" />
+    <NavigationProperty Name="tbl_Role" Relationship="Self.FK__tbl_User__Role_I__0519C6AF" FromRole="tbl_User" ToRole="tbl_Role" />
+  </EntityType>
+  <Association Name="FK__tbl_Inter__Cost___1B0907CE">
+    <End Role="tbl_Cost_Center" Type="Self.tbl_Cost_Center" Multiplicity="0..1" />
+    <End Role="tbl_Internal_Req" Type="Self.tbl_Internal_Req" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Cost_Center">
+        <PropertyRef Name="Cost_Center_Id" />
+      </Principal>
+      <Dependent Role="tbl_Internal_Req">
+        <PropertyRef Name="Cost_Center_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbl_Exter__Custo__3B75D760">
+    <End Role="tbl_Customer" Type="Self.tbl_Customer" Multiplicity="0..1" />
+    <End Role="tbl_External_Req" Type="Self.tbl_External_Req" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Customer">
+        <PropertyRef Name="Customer_Id" />
+      </Principal>
+      <Dependent Role="tbl_External_Req">
+        <PropertyRef Name="Customer_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbl_Exter__Emplo__21B6055D">
+    <End Role="tbl_Employee_Type" Type="Self.tbl_Employee_Type" Multiplicity="0..1" />
+    <End Role="tbl_External_Req" Type="Self.tbl_External_Req" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Employee_Type">
+        <PropertyRef Name="Type_Id" />
+      </Principal>
+      <Dependent Role="tbl_External_Req">
+        <PropertyRef Name="Employee_Type" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbl_Inter__Emplo__1A14E395">
+    <End Role="tbl_Employee_Type" Type="Self.tbl_Employee_Type" Multiplicity="0..1" />
+    <End Role="tbl_Internal_Req" Type="Self.tbl_Internal_Req" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Employee_Type">
+        <PropertyRef Name="Type_Id" />
+      </Principal>
+      <Dependent Role="tbl_Internal_Req">
+        <PropertyRef Name="Employee_Type" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbl_Selec__Emplo__5AEE82B9">
+    <End Role="tbl_Employee_Type" Type="Self.tbl_Employee_Type" Multiplicity="0..1" />
+    <End Role="tbl_Select_Candidate" Type="Self.tbl_Select_Candidate" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Employee_Type">
+        <PropertyRef Name="Type_Id" />
+      </Principal>
+      <Dependent Role="tbl_Select_Candidate">
+        <PropertyRef Name="Employee_Type" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbl_Exter__User___20C1E124">
+    <End Role="tbl_User" Type="Self.tbl_User" Multiplicity="0..1" />
+    <End Role="tbl_External_Req" Type="Self.tbl_External_Req" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="tbl_External_Req">
+        <PropertyRef Name="User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbl_Selec__Exter__5BE2A6F2">
+    <End Role="tbl_External_Req" Type="Self.tbl_External_Req" Multiplicity="0..1" />
+    <End Role="tbl_Select_Candidate" Type="Self.tbl_Select_Candidate" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_External_Req">
+        <PropertyRef Name="External_Rqq_Id" />
+      </Principal>
+      <Dependent Role="tbl_Select_Candidate">
+        <PropertyRef Name="External_Rqq_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbl_Statu__Exter__5535A963">
+    <End Role="tbl_External_Req" Type="Self.tbl_External_Req" Multiplicity="0..1" />
+    <End Role="tbl_Status" Type="Self.tbl_Status" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_External_Req">
+        <PropertyRef Name="External_Rqq_Id" />
+      </Principal>
+      <Dependent Role="tbl_Status">
+        <PropertyRef Name="External_Rqq_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbl_Inter__User___1920BF5C">
+    <End Role="tbl_User" Type="Self.tbl_User" Multiplicity="0..1" />
+    <End Role="tbl_Internal_Req" Type="Self.tbl_Internal_Req" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="tbl_Internal_Req">
+        <PropertyRef Name="User_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbl_Selec__Inter__5CD6CB2B">
+    <End Role="tbl_Internal_Req" Type="Self.tbl_Internal_Req" Multiplicity="0..1" />
+    <End Role="tbl_Select_Candidate" Type="Self.tbl_Select_Candidate" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Internal_Req">
+        <PropertyRef Name="Internal_Rqq_Id" />
+      </Principal>
+      <Dependent Role="tbl_Select_Candidate">
+        <PropertyRef Name="Internal_Rqq_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbl_Statu__Inter__5629CD9C">
+    <End Role="tbl_Internal_Req" Type="Self.tbl_Internal_Req" Multiplicity="0..1" />
+    <End Role="tbl_Status" Type="Self.tbl_Status" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Internal_Req">
+        <PropertyRef Name="Internal_Rqq_Id" />
+      </Principal>
+      <Dependent Role="tbl_Status">
+        <PropertyRef Name="Internal_Rqq_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tbl_User__Role_I__0519C6AF">
+    <End Role="tbl_Role" Type="Self.tbl_Role" Multiplicity="0..1" />
+    <End Role="tbl_User" Type="Self.tbl_User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tbl_Role">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="tbl_User">
+        <PropertyRef Name="Role_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Req2offerDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="tbl_Cost_Center" EntityType="Self.tbl_Cost_Center" />
+    <EntitySet Name="tbl_Customer" EntityType="Self.tbl_Customer" />
+    <EntitySet Name="tbl_Employee_Type" EntityType="Self.tbl_Employee_Type" />
+    <EntitySet Name="tbl_External_Req" EntityType="Self.tbl_External_Req" />
+    <EntitySet Name="tbl_Internal_Req" EntityType="Self.tbl_Internal_Req" />
+    <EntitySet Name="tbl_Role" EntityType="Self.tbl_Role" />
+    <EntitySet Name="tbl_Select_Candidate" EntityType="Self.tbl_Select_Candidate" />
+    <EntitySet Name="tbl_Status" EntityType="Self.tbl_Status" />
+    <EntitySet Name="tbl_User" EntityType="Self.tbl_User" />
+    <AssociationSet Name="FK__tbl_Inter__Cost___1B0907CE" Association="Self.FK__tbl_Inter__Cost___1B0907CE">
+      <End Role="tbl_Cost_Center" EntitySet="tbl_Cost_Center" />
+      <End Role="tbl_Internal_Req" EntitySet="tbl_Internal_Req" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbl_Exter__Custo__3B75D760" Association="Self.FK__tbl_Exter__Custo__3B75D760">
+      <End Role="tbl_Customer" EntitySet="tbl_Customer" />
+      <End Role="tbl_External_Req" EntitySet="tbl_External_Req" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbl_Exter__Emplo__21B6055D" Association="Self.FK__tbl_Exter__Emplo__21B6055D">
+      <End Role="tbl_Employee_Type" EntitySet="tbl_Employee_Type" />
+      <End Role="tbl_External_Req" EntitySet="tbl_External_Req" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbl_Inter__Emplo__1A14E395" Association="Self.FK__tbl_Inter__Emplo__1A14E395">
+      <End Role="tbl_Employee_Type" EntitySet="tbl_Employee_Type" />
+      <End Role="tbl_Internal_Req" EntitySet="tbl_Internal_Req" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbl_Selec__Emplo__5AEE82B9" Association="Self.FK__tbl_Selec__Emplo__5AEE82B9">
+      <End Role="tbl_Employee_Type" EntitySet="tbl_Employee_Type" />
+      <End Role="tbl_Select_Candidate" EntitySet="tbl_Select_Candidate" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbl_Exter__User___20C1E124" Association="Self.FK__tbl_Exter__User___20C1E124">
+      <End Role="tbl_User" EntitySet="tbl_User" />
+      <End Role="tbl_External_Req" EntitySet="tbl_External_Req" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbl_Selec__Exter__5BE2A6F2" Association="Self.FK__tbl_Selec__Exter__5BE2A6F2">
+      <End Role="tbl_External_Req" EntitySet="tbl_External_Req" />
+      <End Role="tbl_Select_Candidate" EntitySet="tbl_Select_Candidate" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbl_Statu__Exter__5535A963" Association="Self.FK__tbl_Statu__Exter__5535A963">
+      <End Role="tbl_External_Req" EntitySet="tbl_External_Req" />
+      <End Role="tbl_Status" EntitySet="tbl_Status" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbl_Inter__User___1920BF5C" Association="Self.FK__tbl_Inter__User___1920BF5C">
+      <End Role="tbl_User" EntitySet="tbl_User" />
+      <End Role="tbl_Internal_Req" EntitySet="tbl_Internal_Req" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbl_Selec__Inter__5CD6CB2B" Association="Self.FK__tbl_Selec__Inter__5CD6CB2B">
+      <End Role="tbl_Internal_Req" EntitySet="tbl_Internal_Req" />
+      <End Role="tbl_Select_Candidate" EntitySet="tbl_Select_Candidate" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbl_Statu__Inter__5629CD9C" Association="Self.FK__tbl_Statu__Inter__5629CD9C">
+      <End Role="tbl_Internal_Req" EntitySet="tbl_Internal_Req" />
+      <End Role="tbl_Status" EntitySet="tbl_Status" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tbl_User__Role_I__0519C6AF" Association="Self.FK__tbl_User__Role_I__0519C6AF">
+      <End Role="tbl_Role" EntitySet="tbl_Role" />
+      <End Role="tbl_User" EntitySet="tbl_User" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
